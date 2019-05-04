@@ -1,0 +1,66 @@
+
+
+body{margin: 0;}
+
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo{}
+.logo img{
+    float: left;
+    max-width: 146px;
+    padding-top: 40px;
+}
+.menu{float: right;padding-top: 50px;}
+.menu ul{
+}
+.menu a{
+    color: #848080;
+    float: left;
+    padding: inherit;
+    text-decoration: none;
+}
+.banner{}
+.banner img{
+    max-width: 100%;
+}
+.photodairy{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.photodairy p{color: #848080;}
+h1{color: #848080;
+}
+h5 {color: #84b79b;}
+.lifestyle{
+    width: 89%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lifestyle-left{
+	width: 42.5%;
+	float: left;
+	padding: 0px 20px;
+	box-sizing: 
+	border-box;
+	}
+.lifestyle-left p{color: #848080;}	
+.lifestyle-right{
+    width: 42.5%;
+    float: left;
+    margin-left: 133px;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+.lifestyle-right p{
+    color: #848080;
+}
+.lifestyle img{
+    max-width: 100%;
+    display: block;
+    margin-top: 50px;
+}
+
